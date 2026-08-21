@@ -1,0 +1,130 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+  robots?: string;
+  bodyClass?: string;
+}
+
+const { title, description = "Mejora la experiencia de tus empleados y optimiza procesos de RH y Capital Humano con PeopleNext Gold Partner de SAP SuccessFactors en México.", canonical = "https://www.peoplenext.com/", robots = "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large", bodyClass = "" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  {description && <meta name="description" content={description} />}
+  {robots && <meta name="robots" content={robots} />}
+  <link rel="canonical" href={canonical} />
+  
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:locale" content="es_MX" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:site_name" content="PeopleNext" />
+  
+  <!-- Favicon and Icons -->
+  <link rel="icon" type="image/x-icon" href="/images/wp-content_uploads_2025_04_logo-people-next.webp" />
+  
+  <!-- Preload fonts to avoid layout shift -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+</head>
+<body class={bodyClass}>
+  <Header />
+  <main>
+    <slot />
+  </main>
+  <Footer />
+
+  <!-- WhatsApp Floating Widget -->
+  <div id="hs_cos_wrapper_module_34009763608" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    <span class="wa_widget-flag"></span> 
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;"> 
+      <symbol id="wa_widget-logo"> 
+        <path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522 c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982 c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537 c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938 c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537 c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333 c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882 c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977 c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344 c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223 C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"></path> 
+      </symbol> 
+    </svg> 
+    <span id="wa_widget-show-widget" data-current-language="" data-page-title="Woo Logo" data-page-url="peoplenext.com.mx/"></span>
+    <div class="wa_widget-container wa_widget-round-toggle-on-mobile wa_widget-disable-auto-display-on-small-screen" data-delay-time="1" data-inactive-time="0" data-scroll-length="0">
+      <div class="wa_widget-box wa_widget-js-ready">
+        <div class="wa_widget-description">Conoce más sobre SAP SuccessFactors, platica con uno de nuestros asesores.</div> 
+        <span class="wa_widget-close"></span>
+        <div class="wa_widget-people" style="max-height: 595px;"> 
+          <a href="https://wa.me/5218134041285?text=¡Hola! Me interesa más información de SAP SuccessFactors para mi empresa." data-number="+5218134041285" class="wa_widget-account wa_widget-clearfix" data-auto-text="¡Hola! Me interesa más información de SAP SuccessFactors para mi empresa." data-hs-label="/#/whatsapp/orgánico/home peoplenext" data-ga-label="WP – ORGÁNICO - Home PeopleNext" target="_blank">
+            <div class="wa_widget-face">
+              <img src="/images/icon-wp-pn.jpg" alt="Peoplepnext" onerror="this.style.display='none'">
+            </div>
+            <div class="wa_widget-info"> 
+              <span class="wa_widget-title"></span> 
+              <span class="wa_widget-name">Consultoría SuccessFactors</span>
+            </div> 
+          </a>
+        </div>
+      </div>
+      <div class="wa_widget-toggle">
+        <svg class="WhatsApp" width="20px" height="20px" viewBox="0 0 90 90">
+          <use xlink:href="#wa_widget-logo"></use>
+        </svg> 
+        <span class="wa_widget-text">Cotizar vía WhatsApp</span>
+      </div>
+      <div class="wa_widget-mobile-close">
+        <span>Close and go back to page</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- WhatsApp Toggle Logic -->
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      const container = document.querySelector('.wa_widget-container');
+      if (!container) return;
+      
+      const toggle = container.querySelector('.wa_widget-toggle');
+      const closeBtn = container.querySelector('.wa_widget-close');
+      const mobileCloseBtn = container.querySelector('.wa_widget-mobile-close');
+      
+      // Make sure it starts closed
+      container.classList.remove('wa_widget-show');
+      
+      if (toggle) {
+        toggle.addEventListener('click', (e) => {
+          e.stopPropagation();
+          container.classList.toggle('wa_widget-show');
+        });
+      }
+      
+      if (closeBtn) {
+        closeBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          container.classList.remove('wa_widget-show');
+        });
+      }
+      
+      if (mobileCloseBtn) {
+        mobileCloseBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          container.classList.remove('wa_widget-show');
+        });
+      }
+      
+      // Close when clicking outside of the widget box
+      document.addEventListener('click', (e) => {
+        const box = container.querySelector('.wa_widget-box');
+        if (box && !box.contains(e.target) && toggle && !toggle.contains(e.target)) {
+          container.classList.remove('wa_widget-show');
+        }
+      });
+    });
+  </script>
+</body>
+</html>

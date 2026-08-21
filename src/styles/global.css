@@ -1,0 +1,166 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600;700&family=Poppins:wght@400;500;600;700;800&family=Public+Sans:wght@400;600;700&family=Quicksand:wght@400;500;600;700&family=Raleway:wght@400;600;700&display=swap');
+
+@import "./elementor-frontend-inline.css";
+@import "./wp-custom.css";
+@import "./wp-img-auto-sizes.css";
+@import "./global-styles-inline.css";
+
+
+@import "./wp-styles-1.css";
+@import "./wp-styles-2.css";
+@import "./wp-styles-3.css";
+@import "./wp-styles-4.css";
+@import "./wp-styles-5.css";
+@import "./wp-styles-6.css";
+@import "./wp-styles-7.css";
+@import "./wp-styles-8.css";
+@import "./wp-styles-9.css";
+@import "./wp-styles-10.css";
+@import "./wp-styles-11.css";
+@import "./wp-styles-12.css";
+@import "./wp-styles-13.css";
+@import "./wp-styles-14.css";
+@import "./wp-styles-15.css";
+@import "./wp-styles-16.css";
+@import "./wp-styles-17.css";
+@import "./wp-styles-18.css";
+@import "./wp-styles-19.css";
+@import "./wp-styles-20.css";
+@import "./wp-styles-21.css";
+@import "./wp-styles-22.css";
+@import "./wp-styles-23.css";
+@import "./wp-styles-24.css";
+@import "./wp-styles-25.css";
+@import "./wp-styles-26.css";
+@import "./wp-styles-27.css";
+@import "./wp-styles-28.css";
+@import "./wp-styles-29.css";
+
+
+
+
+:root {
+  /* Colors */
+  --color-primary: #002348;
+  --color-secondary: #6D6D6D;
+  --color-text: #2F2F2F;
+  --color-accent: #00B8B1;
+  --color-accent-light: #BEF2E1;
+  --color-accent-mid: #3DB7B0;
+  
+  --color-yellow: #FFAD00;
+  --color-yellow-light: #FFC540;
+  --color-yellow-alt: #f8ab12;
+  
+  --color-bg-light: #F8F6F2;
+  --color-bg-gray: #F9F9F9;
+  --color-bg-dark-blue: #1E2B4E;
+  --color-bg-navy: #1B2E51;
+  --color-white: #FFFFFF;
+  --color-black: #000000;
+  --color-border: #e2e8f0;
+
+  /* Typography Fonts */
+  --font-quicksand: 'Quicksand', sans-serif;
+  --font-montserrat: 'Montserrat', sans-serif;
+  --font-raleway: 'Raleway', sans-serif;
+  --font-public-sans: 'Public Sans', sans-serif;
+  --font-open-sans: 'Open Sans', sans-serif;
+
+  /* Layout Containers */
+  --container-max-width: 1140px;
+  --container-wide-width: 1282px;
+}
+
+/* Base resets & styles */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-quicksand);
+  color: var(--color-text);
+  background-color: var(--color-white);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--color-primary);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Layout Utilities */
+.container {
+  width: 100%;
+  max-width: var(--container-max-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.container-wide {
+  width: 100%;
+  max-width: var(--container-wide-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Typography Headings Default */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-montserrat);
+  color: var(--color-primary);
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 0.5em;
+}
+
+h1 { font-size: 2.25rem; } /* 36px */
+h2 { font-size: 1.875rem; } /* 30px */
+h3 { font-size: 1.5rem; } /* 24px */
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  background-color: var(--color-accent);
+  color: var(--color-white);
+  font-family: var(--font-quicksand);
+  font-weight: 700;
+  text-align: center;
+  padding: 12px 24px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn:hover {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
+.btn-secondary {
+  background-color: var(--color-yellow);
+}
+
+.btn-secondary:hover {
+  background-color: #e09900;
+}

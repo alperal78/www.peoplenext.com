@@ -1,0 +1,62 @@
+---
+title: "SAP SuccessFactors creando una Revolución Laboral"
+slug: "sap-successfactors-creando-una-revolucion-laboral"
+date: "2020-10-14"
+lastmod: "2026-05-17"
+description: "¿Por qué SAP SuccessFactors entró al mercado? Porque llegó para cumplir con todas aquellas promesas de funcionalidad de talento que los sistemas HCM venían haciendo desde hace años. SAP SuccessFactors creó una aplicación como una solución con licencia para todos los empleados, para aumentar el rendimiento empresarial y hacer a la gente mejores personas."
+images: ["/images/blog/2026_05_SAP-SuccessFactors-creando-una-Revolucion-Laboral_imgdest1.jpg"]
+categories: ["Peoplenext"]
+author: "Oscar Perez"
+---
+
+<p style="text-align: justify"><span style="color: #444444; background-color: white">¿Por qué SAP SuccessFactors entró al mercado? <strong>Porque llegó para cumplir con todas aquellas promesas de funcionalidad de talento que los sistemas HCM venían haciendo desde hace años.</strong> <a href="https://peoplenext.com.mx/success-factors.htm" rel="noopener" target="_blank" style="font-weight: bold; color: #444444;">SAP SuccessFactors</a> creó una aplicación como una solución con licencia para todos los empleados, para aumentar el rendimiento empresarial y hacer a la gente mejores personas.</span></p>
+<p><!--more--></p>
+<p style="text-align: justify">&nbsp;</p>
+<p><img decoding="async" src="../imagenes_hubspot/SAP SuccessFactors creando una Revolución Laboral_imgdest1.jpg" alt="SAP SuccessFactors creando una Revolución Laboral_imgdest1" width="600" style="max-width: 100%; height: auto;"></p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444; background-color: white">A lo largo de nuestra experiencia como partners de SAP hemos escuchado a cientos de clientes contar sus historias de<strong> lo que sus negocios han logrado y qué no habían podido hacer antes de la implementación de SAP SuccessFactors</strong>; objetivos, compensación, planificación de la sucesión, desarrollo, etc. </span></p>
+<p style="text-align: justify"><span style="color: #444444">Los héroes en estas historias a menudo no son los profesionales de recursos humanos que implementaron las soluciones, sino <strong>los gerentes y empleados que adoptaron estas nuevas herramientas y métodos de comunicación para hacer que la empresa y ellos mismos tengan más éxito.</strong></span></p>
+<p style="text-align: justify"><span style="color: #444444"><em><span>La confianza fue un subproducto de esta nueva alineación. Y es así como estamos transformando la humanidad laboral.</span></em></span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444">Cuando los empleados de estas historias comprendieron los objetivos comerciales de la organización, propósito y lo que la empresa esperaba de ellos para cumplir con esa misión, se construyó la confianza.</span></p>
+<p style="text-align: justify"><span style="color: #444444">Sin embargo, no escuchamos ninguna historia sobre cómo el núcleo HRIS acelera el crecimiento de una empresa y aún encontramos algunos líderes de recursos humanos que se sorprenden de que el resto de la suite de SAP no se tome tan en serio.</span></p>
+<p style="text-align: justify"><span style="color: #444444">Luego encontramos algunas organizaciones que argumentan que asumen un proyecto caro para gestionar eficazmente los datos de recursos humanos. Es sorprendente como no se menciona nada sobre el desempeño del negocio, excepto más promesas…</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<h1 style="text-align: center"><span style="color: #444444"><strong>¿De qué forma SAP SuccessFactors crea una Revolución Laboral?</strong></span></h1>
+<p>&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444">Centrémonos en un gasto del 2% en lugar de en una herramienta diseñada para alinear e involucrar a todos trabajadores, que generalmente supone un gasto del 60% al 70%..</span></p>
+<p style="text-align: justify"><span style="color: #444444">En principio, una base sólida es fundamental, pero un arquitecto gasta el dos por ciento de su tiempo en los cimientos de un edificio, ya que es en gran medida el mismo de una vivienda a otra y en su mayoría dictadas por las leyes de la física, o por cumplimiento en nuestro caso.</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p><span style="color: #444444"><img decoding="async" src="../imagenes_hubspot/SAP SuccessFactors creando una Revolución Laboral_quote.png" alt="SAP SuccessFactors creando una Revolución Laboral_quote" width="600" style="max-width: 100%; height: auto;"></span></p>
+<p>&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444">El arte está en el diseño delo que se encuentra encima de esa base. <strong>Es lo que crea valor en un edificio y valor a través de personas en una organización.</strong></span></p>
+<p style="text-align: justify"><span style="color: #444444">Es así como SAP SuccessFactors está revolucionando la humanidad laboral.</span></p>
+<p style="text-align: justify"><span style="color: #444444">Entre más historias de éxito encontramos, más podemos asegurar de que todas están hechas del mismo ADN. SAP es la única empresa empresarial de HCM que comenzó otorgando licencias a todos los empleados de un cliente como usuarios. También fue el primer sistema de recursos humanos en hacerlo en la nube y el único que comenzó con el único objetivo de aumentar el rendimiento empresarial a través de la alineación de propósito del trabajador con el de la propia empresa.</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444">SAP SuccessFactors no es un sistema cre</span><span style="color: #444444">ado para resolver problemas de recursos humanos, es una solución diseñada para resolver un problema de rendimiento empresarial. Una herramienta que permite a los líderes comprender su intención y comprometerse con aquellos autorizados para llevar a cabo la misión. Esto sí que puede cambiar el mundo.</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<h2 style="text-align: center"><span style="color: #444444"><strong>SAP SuccessFactors <span style="background-color: white">creando una Revolución Laboral:</span> antes y ahora</strong></span></h2>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444">SAP SuccessFactors continúa siendo fiel a su ADN, los millones de clientes en todo el mundo comprenden a través de todas sus funcionalidades el valor de la alineación, la confianza, el compromiso y el propósito relacionado con la ejecución del negocio.</span></p>
+<p style="text-align: justify"><span style="color: #444444">Apenas en el 2005, SAP estaba abriéndose camino sobre cómo impactar a las personas y a las organizaciones. A través de discusiones de desempeño, nos llegan muchas ideas a innovaciones que ayudan a las empresas que utilizan SAP a obtener una ventaja competitiva sobre aquellas que no lo hacen.</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p><span style="color: #444444"><img decoding="async" src="../imagenes_hubspot/SAP SuccessFactors creando una Revolución Laboral_notarel.png" alt="SAP SuccessFactors creando una Revolución Laboral_notarel" width="600" style="max-width: 100%; height: auto;"></span></p>
+<p style="text-align: justify"><span style="color: #444444"><em><span>SAP ha estado avanzando sin parar por trece años consecutivos manteniéndose fiel a su propósito. La inteligencia aumentativa es un término que viene muy bien para definir todos aquellos procesos modernos que ahora son posibles de aplicar en el departamento de recursos humanos: inteligencia artificial, aprendizaje automático, robótica, automatización de procesos, bots y recursos humanos conversacionales.</span></em></span></p>
+<p style="text-align: justify"><span style="color: #444444">La forma en la que las empresa están aprendiendo a incorporar estas nuevas tecnologías y alinear el desempeño individual y del equipo <strong>de una manera más ágil y proactiva conducirá al siguiente nivel de desempeño humano.</strong></span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444"><a href="https://peoplenext.com.mx/success-factors.htm" rel="noopener" target="_blank" style="font-weight: bold; color: #444444;">SAP SuccessFactors</a> <span style="font-weight: bold">está brindando a los líderes una visibilidad poderosa nunca antes vista</span>, con acceso a sus mejores empleados y todas las herramientas orgánicas necesarias para mejorar continuamente el rendimiento de todos, junto con el motor de análisis más sólido del mundo en SAP Analytics. Esto no solo trata de capacitar y mover a las personas alrededor del organigrama, <span style="font-weight: bold">es una herramienta que ofrece la capacidad de tomar las decisiones correctas para aumentar el rendimiento y la agilidad del negocio.</span></span></p>
+<p style="text-align: justify"><span style="color: #444444"><em><strong>Los clientes de SAP están usando esta tecnología para reemplazar el miedo o el estrés causado por “esa profunda necesidad humana”</strong> </em>de cada trabajador para comprender su rol en la empresa. Sin miedo ni estrés y con un sentido de propósito, los empleados ahora pueden irse a casa siendo mejores madres, padres, esposas, esposos, hermanas y hermanos.</span></p>
+<p style="text-align: justify"><span style="color: #444444"><em><strong><span>Al crear y alimentar la conexión entre el propósito que las personas necesitan sentir y su lugar en el rompecabezas, realmente estamos haciendo del mundo un lugar mejor.</span></strong></em></span></p>
+<p style="text-align: justify"><span style="color: #444444">Y aquí es donde la tecnología y la empatía se unen para lograr la verdadera revolución humana.</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444"><strong>Si aún no cuentas con un software de recursos humanos en tu empresa para transformar la revolución humana</strong> no pierdas más tiempo y apóyate en un consultor especializado como <a href="https://peoplenext.com.mx/index.htm" rel="noopener" target="_blank" style="font-weight: bold; color: #444444;">PeopleNext</a>. Recuerda que te ofrecemos nuestro servicio de consultoría con la cual lograrás tener certeza de que la implementación del sistema logrará grandes resultados para todos.</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444">[CTA]</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444"><a href="https://peoplenext.com.mx/success-factors.htm" rel="noopener" target="_blank" style="font-weight: bold; font-style: italic; color: #444444;">SuccessFactors</a> <span style="font-weight: bold; font-style: italic">es el software de gestión de talento humano reconocido por todos los analistas de la industria como el líder en gestión del talento humano</span> integrado en sus diferentes categorías, este sistema trabaja a diario para ayudar a empresas como la tuya a alcanzar los mejores resultados teniendo como base un equipo de trabajo comprometido y alineado a los objetivos de la empresa gracias a las soluciones de software de ejecución de negocios que incorporan lo último en investigación, la tecnología más inteligente y los sistemas más seguros del planeta.</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444"><strong>¿Te gustaría conocer más sobre SAP SuccessFactors?</strong> <a href="https://peoplenext.com.mx/demo-success-factors.htm" rel="noopener" target="_blank" style="font-weight: bold; font-style: italic;">Solicita una Demo</a>. Es totalmente gratuita y en ella tendrás la oportunidad de conocer esta solución de talento humano operando en vivo y con escenarios de negocio similares a los de tu organización. Además, un consultor especializado te ayudará para resolver cualquier duda que tengas al respecto.</span></p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><span style="color: #444444">[CTA]</span></p>
+<p><span style="color: #444444"><strong><span>Oscar Pérez&nbsp;| Director General&nbsp;PeopleNext |&nbsp;<a href="http://peoplenext.com.mx/index.htm" target="_blank" rel="noopener" style="color: #444444;">SuccessFactors México</a></span></strong></span></p>
+
