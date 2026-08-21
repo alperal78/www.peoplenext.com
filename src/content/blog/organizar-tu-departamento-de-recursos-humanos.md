@@ -1,14 +1,13 @@
-﻿+++
-title = "Cómo organizar de manera efectiva tu departamento de recursos humanos"
-slug = "organizar-tu-departamento-de-recursos-humanos"
-date = 2022-11-24T12:35:08Z
-lastmod = 2026-05-17T11:37:59Z
-description = "Hay que ser siempre claros: el departamento de recursos humanos es tan importante que, de no tenerlo, la compañía podrá fracasar."
-images = ["/images/blog/2026_05_%C2%BFC%C3%B3mo-organizar-de-manera-efectiva-tu-departamento-de-recursos-humanos.jpg"]
-categories = ["Peoplenext"]
-author = "Oscar Perez"
-+++
-
+---
+title: "Cómo organizar de manera efectiva tu departamento de recursos humanos"
+slug: "organizar-tu-departamento-de-recursos-humanos"
+date: 2022-11-24T12:35:08Z
+lastmod: 2026-05-17T11:37:59Z
+description: "Hay que ser siempre claros: el departamento de recursos humanos es tan importante que, de no tenerlo, la compañía podrá fracasar."
+images: ["/images/blog/2026_05_%C2%BFC%C3%B3mo-organizar-de-manera-efectiva-tu-departamento-de-recursos-humanos.jpg"]
+categories: ["Peoplenext"]
+author: "Oscar Perez"
+---
 Hay que ser siempre claros: **el departamento de recursos humanos es tan importante** que, de no tenerlo, la compañía podrá fracasar. Por esa razón, organizarlo es la mejor manera para cumplir todos los objetivos estratégicos de tu negocio o empresa.
 
 ![¿Cómo organizar de manera efectiva tu departamento de recursos humanos](https://blog.peoplenext.com/imagenes_hubspot/%C2%BFC%C3%B3mo%20organizar%20de%20manera%20efectiva%20tu%20departamento%20de%20recursos%20humanos.jpg)

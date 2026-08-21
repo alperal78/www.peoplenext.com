@@ -1,14 +1,13 @@
-﻿+++
-title = "La perspectiva del aprendizaje en el Balanced Scorecard (BSC)"
-slug = "la-perspectiva-del-aprendizaje-en-bsc"
-date = 2020-06-23T18:38:14Z
-lastmod = 2026-05-17T11:37:27Z
-description = "La perspectiva del aprendizaje en el Balanced Scorecard (BSC)"
-images = ["/images/blog/2026_05_Aprendizaje_y_desarrollo_en_BSC-2.jpg"]
-categories = ["Peoplenext"]
-author = "Oscar Perez"
-+++
-
+---
+title: "La perspectiva del aprendizaje en el Balanced Scorecard (BSC)"
+slug: "la-perspectiva-del-aprendizaje-en-bsc"
+date: 2020-06-23T18:38:14Z
+lastmod: 2026-05-17T11:37:27Z
+description: "La perspectiva del aprendizaje en el Balanced Scorecard (BSC)"
+images: ["/images/blog/2026_05_Aprendizaje_y_desarrollo_en_BSC-2.jpg"]
+categories: ["Peoplenext"]
+author: "Oscar Perez"
+---
 ![Aprendizaje_y_desarrollo_en_BSC](https://blog.peoplenext.com/imagenes_hubspot/Aprendizaje_y_desarrollo_en_BSC-2.jpg)
 
 El cuadro de mando integral, también llamado *balanced scorecard* **es una metodología aplicada a los negocios que convierte la estrategia de la empresa en acciones definidas y concretas que permitan alcanzar las metas organizacionales.** Para lograr esto es necesario contar con los indicadores correctos que permitan medir los esfuerzos y enfocarlos al logro de los objetivos tanto individuales como del negocio.

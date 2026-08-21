@@ -1,14 +1,13 @@
-﻿+++
-title = "6 Tendencias de compensación y beneficios para atraer y retener al talento"
-slug = "6-tendencias-de-compensacion-y-beneficios"
-date = 2024-02-27T12:41:50Z
-lastmod = 2026-05-17T11:33:17Z
-description = "Descubre las tendencias clave en compensación y beneficios para atraer y retener talento."
-images = ["/images/blog/2026_05_6-Tendencias-de-compensacion-y-beneficios-para-atraer-y-retener-al-talento.webp"]
-categories = ["Peoplenext"]
-author = "Oscar Perez"
-+++
-
+---
+title: "6 Tendencias de compensación y beneficios para atraer y retener al talento"
+slug: "6-tendencias-de-compensacion-y-beneficios"
+date: 2024-02-27T12:41:50Z
+lastmod: 2026-05-17T11:33:17Z
+description: "Descubre las tendencias clave en compensación y beneficios para atraer y retener talento."
+images: ["/images/blog/2026_05_6-Tendencias-de-compensacion-y-beneficios-para-atraer-y-retener-al-talento.webp"]
+categories: ["Peoplenext"]
+author: "Oscar Perez"
+---
 El panorama del empleo está evolucionando a un ritmo importante, y las estrategias de compensación y beneficios no se quedan atrás. Para el 2024, es importante que las empresas que busquen destacarse en la captación y retención del talento más destacado implementen planes altamente personalizados para toda su plantilla.
 
 ![6 Tendencias de compensación y beneficios para atraer y retener al talento](https://blog.peoplenext.com/imagenes_hubspot/6%20Tendencias%20de%20compensaci%C3%B3n%20y%20beneficios%20para%20atraer%20y%20retener%20al%20talento..webp)

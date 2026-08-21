@@ -1,14 +1,13 @@
-﻿+++
-title = "¿Por qué son tan importantes las habilidades gerenciales?"
-slug = "por-que-son-tan-importantes-las-habilidades-gerenciales"
-date = 2022-05-31T11:54:30Z
-lastmod = 2026-05-17T11:38:49Z
-description = "Cuando hablamos de habilidades gerenciales, hacemos referencia una serie de capacidades autodirigidas y espontáneas para realizar actividades de liderazgo"
-images = ["/images/blog/2026_05_Por-que-son-tan-importantes-las-habilidades-gerenciales.jpg"]
-categories = ["Peoplenext"]
-author = "Oscar Perez"
-+++
-
+---
+title: "¿Por qué son tan importantes las habilidades gerenciales?"
+slug: "por-que-son-tan-importantes-las-habilidades-gerenciales"
+date: 2022-05-31T11:54:30Z
+lastmod: 2026-05-17T11:38:49Z
+description: "Cuando hablamos de habilidades gerenciales, hacemos referencia una serie de capacidades autodirigidas y espontáneas para realizar actividades de liderazgo"
+images: ["/images/blog/2026_05_Por-que-son-tan-importantes-las-habilidades-gerenciales.jpg"]
+categories: ["Peoplenext"]
+author: "Oscar Perez"
+---
 A lo largo de nuestras publicaciones en el blog discutimos las habilidades gerenciales pero ¿qué son realmente?
 
 ![Por qué son tan importantes las habilidades gerenciales](https://blog.peoplenext.com/imagenes_hubspot/Por%20qu%C3%A9%20son%20tan%20importantes%20las%20habilidades%20gerenciales.jpg)

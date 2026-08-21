@@ -1,14 +1,13 @@
-﻿+++
-title = "¿Qué es la evaluación 360 grados y qué beneficios da a tu empresa?"
-slug = "que-es-la-evaluacion-360-grados-y-que-beneficios-aporta-a-tu-empresa"
-date = 2020-06-23T18:39:44Z
-lastmod = 2026-05-17T11:31:45Z
-description = "Conoce qué es la evaluación 360 para tu empresa y qué beneficios trae para el desempeño de tu equipo de trabajo."
-images = ["/images/blog/2026_05_evaluacion-de-desempeno-360-1.webp"]
-categories = ["Peoplenext"]
-author = "Oscar Perez"
-+++
-
+---
+title: "¿Qué es la evaluación 360 grados y qué beneficios da a tu empresa?"
+slug: "que-es-la-evaluacion-360-grados-y-que-beneficios-aporta-a-tu-empresa"
+date: 2020-06-23T18:39:44Z
+lastmod: 2026-05-17T11:31:45Z
+description: "Conoce qué es la evaluación 360 para tu empresa y qué beneficios trae para el desempeño de tu equipo de trabajo."
+images: ["/images/blog/2026_05_evaluacion-de-desempeno-360-1.webp"]
+categories: ["Peoplenext"]
+author: "Oscar Perez"
+---
 En las empresas es importante evaluar al equipo de trabajo, ya que el éxito de la organización está basado en gran parte en el desempeño de las personas. **Medir y monitorear este desempeño** permite tomar mejores decisiones y emprender acciones orientadas a mejorar la productividad y el desarrollo del talento humano.
 
 Una de las metodologías más utilizadas para este propósito es **la evaluación 360 grados**, también conocida como **evaluación integral**. A continuación, te explicamos qué es, para qué sirve, ejemplos de aplicación, beneficios y principales usos.

@@ -1,14 +1,13 @@
-﻿+++
-title = "El impacto del trabajo remoto en la vida personal y profesional"
-slug = "el-impacto-del-trabajo-remoto"
-date = 2024-03-05T09:29:59Z
-lastmod = 2026-05-17T11:33:15Z
-description = "Descubre el impacto del trabajo remoto en la vida laboral y personal."
-images = ["/images/blog/2026_05_El-impacto-del-trabajo-remoto-en-la-vida-personal-y-profesional.webp"]
-categories = ["Peoplenext"]
-author = "Oscar Perez"
-+++
-
+---
+title: "El impacto del trabajo remoto en la vida personal y profesional"
+slug: "el-impacto-del-trabajo-remoto"
+date: 2024-03-05T09:29:59Z
+lastmod: 2026-05-17T11:33:15Z
+description: "Descubre el impacto del trabajo remoto en la vida laboral y personal."
+images: ["/images/blog/2026_05_El-impacto-del-trabajo-remoto-en-la-vida-personal-y-profesional.webp"]
+categories: ["Peoplenext"]
+author: "Oscar Perez"
+---
 **El año 2020 representó un cambio total en el paradigma laboral**. Una pandemia global hizo que la mayor parte de los trabajadores de las oficinas tradicionales tuvieran que laborar desde una casa o establecimiento seguro, inaugurando la nueva era del trabajo remoto o el trabajo híbrido.
 
 ![El impacto del trabajo remoto en la vida personal y profesional](https://blog.peoplenext.com/imagenes_hubspot/El%20impacto%20del%20trabajo%20remoto%20en%20la%20vida%20personal%20y%20profesional.webp)
